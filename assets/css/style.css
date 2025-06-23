@@ -7,6 +7,27 @@
  * copyright 2022 @codewithsadee
  */
 
+.download-resume {
+  text-align: center;
+}
+
+.download-button {
+  display: inline-block;
+  background-color: hsl(240, 1%, 25%) 3%;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+
+.download-button ion-icon {
+  vertical-align: middle;
+  margin-right: 8px;
+  font-size: 20px;
+}
 
 
 
